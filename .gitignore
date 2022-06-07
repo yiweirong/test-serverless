@@ -1,0 +1,9 @@
+.next
+node_modules
+*.log
+yarn.lock
+package-lock.json
+out
+.env.local
+.env
+scf_bootstrap

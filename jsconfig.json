@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "baseUrl": "."
+  },
+  "include": [
+    "./pages/**/*",
+    "./components/**/*",
+    "./apis/*",
+    "./constants/*",
+    "./helpers/*"
+  ]
+}

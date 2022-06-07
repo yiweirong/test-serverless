@@ -1,0 +1,15 @@
+{
+  "common": {
+    "title": "HP Wolf Security Admin System",
+    "signOut": "Sign Out"
+  },
+  "login": {
+    "welcome": "Welcome",
+    "signin": "HPID Login",
+    "docsLink": "Documents",
+    "poweredBy": "Copyright © 2022 HP Inc. | Powered by"
+  },
+  "header": {
+
+  }
+}
